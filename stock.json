@@ -1,0 +1,24 @@
+[
+  {
+    "Egg": [],
+    "Seed": {
+      "Carrot": "x5x",
+      "Strawberry": "x4x",
+      "Blueberry": "x2x",
+      "Coconut": "x1x",
+      "Tomato": "x1x"
+    },
+    "Gear": {"Trowel": "x2x"}
+  },
+  {
+    "Egg": ["Egg"],
+    "Seed": {
+      "Carrot": "5x",
+      "Tomato": "1x",
+      "Strawberry": "4x",
+      "Blueberry": "2x",
+      "Coconut": "1x"
+    },
+    "Gear": {"Trowel": "2x"}
+  }
+]
