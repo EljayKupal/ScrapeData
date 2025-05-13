@@ -5,7 +5,7 @@ Common Egg x1 Common Egg x1 Uncommon Egg x1
 Carrot x24 Strawberry x5 Blueberry x4 Tomato x3
 ```
 
-**example ng output na di parse sa json, done na json may index na value nalang ilalagay nung quantity kaso diko alam pano any idea pano ma solve **
+**example ng output na di parse sa json, done na json may index na value nalang ilalagay nung quantity kaso diko alam pano any idea pano ma solve**
 
 ```json
 {
